@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1666214083/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/1666214083/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/941404196/android.firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/941404196/android.firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-605523787/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/-605523787/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/193584125/android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/193584125/android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/620067713/android.google_sign_in_android.iml" filepath="$PROJECT_DIR$/.idea/modules/620067713/android.google_sign_in_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/208595177/android.path_provider_android.iml" filepath="$PROJECT_DIR$/.idea/modules/208595177/android.path_provider_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-972265664/android.shared_preferences_android.iml" filepath="$PROJECT_DIR$/.idea/modules/-972265664/android.shared_preferences_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2028402995/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-2028402995/android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1539862181/android.stripe_android.iml" filepath="$PROJECT_DIR$/.idea/modules/1539862181/android.stripe_android.iml" />
+    </modules>
+  </component>
+</project>

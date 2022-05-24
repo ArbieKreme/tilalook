@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "645846341565",
+    "project_id": "tilalook",
+    "storage_bucket": "tilalook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645846341565:android:b2434e6c276d1cdcf924d4",
+        "android_client_info": {
+          "package_name": "com.adu.tilalook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645846341565-9etktk91v52re4hu87kb1oehubmobf4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adu.tilalook",
+            "certificate_hash": "92c5edc79fef2a743a4a9b5ce868584fca49502a"
+          }
+        },
+        {
+          "client_id": "645846341565-k6e8jfc0j7vg1k5v6dbi0sc9mdbd87vm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATJIw9s5ebYx1GtjW_sJ4RZQU5j7woDrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645846341565-k6e8jfc0j7vg1k5v6dbi0sc9mdbd87vm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
